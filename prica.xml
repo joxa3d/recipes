@@ -1,0 +1,9 @@
+<?xml version='1.0' ?>
+
+   <chapter1>
+  <hint id='intro1'>Your xml file with recipe
+
+I have prepared your breakfast for you</hint>
+ <hint id='intro2'>more details</hint>
+ <hint id='intro3'>and more</hint>
+   </chapter1>
